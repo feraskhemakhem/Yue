@@ -1,0 +1,8 @@
+# visual studio folders
+.vs/
+# no binaries
+bin/
+bin-int/
+
+# visual studio files
+*.user
