@@ -1,0 +1,3 @@
+[submodule "Yue/vendor/spdlog"]
+	path = Yue/vendor/spdlog
+	url = https://github.com/gabime/spdlog

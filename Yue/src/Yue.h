@@ -4,6 +4,7 @@
 
 // application
 #include "Yue/Application.h"
+#include "Yue/Log.h"
 
 // entry point to run the application
 #include "Yue/EntryPoint.h"
