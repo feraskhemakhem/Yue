@@ -8,6 +8,9 @@ int main(int argc, char** argv)
 {
 
 	Yue::Log::Init();
+	int a = 5;
+	YUE_CORE_INFO("CORE INFO HERE");
+	YUE_WARN("CLIENT WARNING: INFO {0}", __cplusplus);
 
 	auto app = Yue::CreateApplication();
 	app->Run();
